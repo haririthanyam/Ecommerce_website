@@ -208,7 +208,7 @@ CREATE TABLE `user_info` (
 --
 
 INSERT INTO `user_info` (`user_id`, `first_name`, `last_name`, `email`, `password`, `mobile`, `address1`, `address2`) VALUES
-(1, 'Dharshini', 'TV', 'dharshinitv18.it@kongu.edu', 'a824502555217a3a92106fd806e4f93a', '6374561599', 'Avinashi', 'Tiruppur');
+(1, 'Dharshini', 'TV', 'dharshinitv18.it@kongu.edu', 'a824502555217a3a92106fd806e4f93a', '9844567357', 'Avinashi', 'Tiruppur');
 
 --
 -- Indexes for dumped tables
